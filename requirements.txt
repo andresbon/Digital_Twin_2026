@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+plotly
+shap
+matplotlib
+openai
+python-dotenv
+imbalanced-learn
