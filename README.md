@@ -174,7 +174,6 @@ Para mejorar el proyecto:
 
 ## 📝 Cambios Recientes
 
-- ✅ Traducción completa al español
 - ✅ Integración con OpenAI API para análisis mejorado
 - ✅ 7 escenarios clínicos predefinidos
 - ✅ Análisis comparativo interactivo
