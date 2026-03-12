@@ -36,6 +36,17 @@ digital_twin_dashboard/
 
 ## ⚡ Quick Start
 
+### 0. Descargar el Modelo Entrenado
+
+El archivo `digital_twin_bundle.joblib` (509 MB) no está incluido en el repositorio por su tamaño. 
+
+**Necesitas descargarlo manualmente:**
+
+1. Descarga el archivo desde tu almacenamiento local o nube
+2. Colócalo en la raíz del proyecto: `/digital_twin_dashboard/digital_twin_bundle.joblib`
+
+> **Alternativa:** Si no tienes el archivo, puedes entrenar tu propio modelo editando `deprecated/digital_twin_bundle.py`
+
 ### 1. Instalar Dependencias
 ```bash
 pip install -r requirements.txt
